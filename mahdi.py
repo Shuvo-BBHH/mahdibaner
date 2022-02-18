@@ -22,3 +22,6 @@ logo1 = """
 {C}║ {C} WHATSAPP ✈✈✈ 0184910816@                 
 {Y}╚══──────────────────────────
 """
+User="MAHDI"
+Pwd="HASAN"
+Permission="On"
